@@ -1,4 +1,4 @@
-// src/Controllers/blogController.js
+
 exports.create = async (req, res) => {
     res.send('Create Blog API');
   };
